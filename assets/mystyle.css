@@ -19,6 +19,7 @@ header {
     background-color: #2b3341;
     color:white;
 }
+
 header ul {
     margin: 0;
     padding: 0;
@@ -26,29 +27,53 @@ header ul {
     overflow: hidden;
     color:#fff;
     background-color: #2b3341;
+
 }
 header li a {
     display: block;
-    padding: 10px 50px;
     text-decoration: none;
     color:white;
     background-color: #2b3341;
+
 }
 
-header li a:hover {
+header li a:hover   {
     background-color: #000;
     font-weight: bold;
     cursor: pointer;
+    height: 70px;
 }
+
 
 header .button:hover {
     cursor: pointer;
 }
 
+nav  {
+    position: fixed;
+    border-top: 1px solid #ddd;
+    background: #2b3341;
+    display:inline;
+    border-top: 1px solid lightgray;
+    box-shadow: 0 1px 3px rgba(0,0,0,.25);
+    left: 0;
+    right: 0;
+    bottom: 0;
 
-nav {
-    display: none;
-    height: 65px;
+}
+
+ul {
+    height:70px;
+    width:100%;
+}
+
+li {
+    float:left;
+    width:20%;
+}
+
+a {
+    padding-top: 20px;
 }
 
 /* Page title */
@@ -57,26 +82,6 @@ nav {
     padding: 10px 20px;
     text-decoration: none;
     color:white;
-}
-
-/* Mobile navigation menu */
-.fa, .fas {
-    padding-top: 15px !important;
-}
-
-#hamburger-menu{
-    display: none;
-}
-
-#hamburger-menu:checked ~ nav {
-    display: block;
-    padding-bottom: 100px;
-
-}
-
-/* custum padding to the mobile navigation menu */
-.bread {
-    padding: 15px 15px;
 }
 
 
@@ -96,7 +101,7 @@ footer {
 /* first image with floating text on top */
 .text-box {
     position: absolute;
-    top: 40vh;
+    top: 30vh;
     left: 4vh;
     right: 4vh;
     color: white;
@@ -150,7 +155,6 @@ p {
 .scale0 {
     width: 100%;
 }
-
 
 /* center objects */
 .center {

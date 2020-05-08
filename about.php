@@ -7,9 +7,9 @@
     <meta name="keywords" content=" ">
     <meta name="author" content=" ">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?php include_once 'includes\sheet.php'; ?>
+    <?php include_once 'sheet.php'; ?>
 </head>
-<?php include_once 'includes\header.php'; ?>
+<?php include_once 'header.php'; ?>
 
 <body>
 <div class="top"></div>
@@ -44,5 +44,5 @@
     <form></form>
 </div>
 </body>
-<?php include_once 'includes\footer.php'; ?>
+<?php include_once 'footer.php'; ?>
 </html>

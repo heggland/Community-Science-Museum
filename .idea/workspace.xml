@@ -24,9 +24,9 @@
       <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mystyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/events.php" beforeDir="false" afterPath="$PROJECT_DIR$/events.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/nav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/sheet.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/sheet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/sheet.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/involved.php" beforeDir="false" afterPath="$PROJECT_DIR$/involved.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/visit.php" beforeDir="false" afterPath="$PROJECT_DIR$/visit.php" afterDir="false" />
@@ -54,6 +54,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\www\www\noroff\Community-Science-Museum" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -67,6 +72,7 @@
       <workItem from="1588773011057" duration="12716000" />
       <workItem from="1588791159868" duration="508000" />
       <workItem from="1588955237154" duration="9059000" />
+      <workItem from="1588967838380" duration="3973000" />
     </task>
     <servers />
   </component>
@@ -94,14 +100,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="730" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588775971688" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588967835622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588967835622" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588773816100">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588773816100" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1588958552761">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1588970465966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588958552761" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588970465966" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588774001355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
