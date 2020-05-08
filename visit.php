@@ -9,15 +9,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include_once 'includes\sheet.php'; ?>
 </head>
-<?php include_once 'includes\nav.php'; ?>
+<?php include_once 'includes\header.php'; ?>
 
 <body>
+<div class="top"></div>
 <div class="container">
-    <div class="row">
+    <div class="row light">
         <h2>Location</h2>
         <p>The museum is located at [student to include address].</p>
     </div>
-    <div class="row">
+    <div class="row light">
         <h2>Admission</h2>
         <p>The entrance is free for all. </p>
         <p>There are guided tours of the museum that leave every hour. These tours are 70 NOK per person and include a
@@ -27,7 +28,7 @@
             the
             tour.</p>
     </div>
-    <div class="row">
+    <div class="row light">
         <h3>Hours</h3>
         <ul>
             <li>Monday: Closed</li>
@@ -39,18 +40,18 @@
             <li>Sunday: 9:00 – 13:00</li>
         </ul>
     </div>
-    <div class="row">
+    <div class="row light">
         <h2>Accessibility</h2>
         <p>The museum has wheelchair accessibility ramps. It also has audio guides and braille display signs for the
             visually
             impaired.</p>
     </div>
-    <div class="row">
+    <div class="row light">
         <h2>food and drink</h2>
         <p>There is a café attached to the museum where you can get light lunches, soft drinks, coffee, snacks and
             more.</p>
     </div>
-    <div class="row">
+    <div class="row light">
         <h2>Shop</h2>
         <p>Our shop offers a range of memorabilia from the museum as well as great gifts and activity packs that allow
             you to

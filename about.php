@@ -9,13 +9,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include_once 'includes\sheet.php'; ?>
 </head>
-<?php include_once 'includes\nav.php'; ?>
+<?php include_once 'includes\header.php'; ?>
 
 <body>
+<div class="top"></div>
 <div class="container">
-    <div class="row">
+    <div class="row light">
         <h2>Who are we?</h2>
         <p>Come join us at the Community Science Museum where we’re committed to making science accessible to all.</p>
+        <div class="image-box center">
+            <img src="img/about/toa-heftiba-412579.jpg" alt="image of entrance, whale skeleton" class="img-box flex">
+            <img src="img/about/mavis-cw-164128.jpg" alt="image of museum halway" class="img-box flex">
+            <img src="img/about/roberto-nickson-396152.jpg" alt="image of elephant stand" class="img-box flex">
+        </div>
         <p>Over the course of human history, science has developed from our early understanding of fire, wind, water,
             and earth
             to exploring everything from galaxies far away to the very building blocks of life itself.</p>
@@ -29,8 +35,11 @@
             for you to interact with and play around to see science come to life (apart from the dinosaur exhibits –
             they only
             come to life at night when everyone’s gone home).</p>
+        <img src="img/about/mammoth-1257288_1920.jpg" alt="image of mammoth skeleton" class="center scale">
+
     </div>
 </div>
+<div class="top"></div>
 <div class="container">
     <form></form>
 </div>

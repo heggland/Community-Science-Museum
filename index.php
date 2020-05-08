@@ -9,17 +9,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include_once 'includes\sheet.php'; ?>
 </head>
-<?php include_once 'includes\nav.php'; ?>
+<?php include_once 'includes\header.php'; ?>
 <body>
 
-<div class="container">
-    <div class="row odd">
-        <h1>Explorer together</h1>
-        <p>Come join us at the Community Science Museum where we’re committed to making science accessible to all.</p>
-    </div>
+<div class="text-box center">
+    <h1 class="center text-center">Explorer together</h1>
+    <p>Come join us at the Community Science Museum where we’re committed to making science accessible to all.</p>
+</div>
 
-    <div class="row even">
+<img src="img/scott-webb-102825.jpg" alt="image of museum" class="scale0">
+
+<div class="top"></div>
+<div class="container">
+    <div class="con-col1"></div>
+    <div class="row light">
         <h2>For kids</h2>
+        <img src="img/index/learn-2405206_1920.jpg" alt="image of child" class="center scale">
         <p>Are you a young person looking to learn more about science? Come on down to our museum, there’s plenty to see
             and
             do.</p>
@@ -37,8 +42,14 @@
             you can
             join, send us a message.</p>
     </div>
-    <div class="row odd">
+</div>
+
+<div class="top"></div>
+<div class="container">
+    <div class="con-col2"></div>
+    <div class="row light">
         <h2>For teachers</h2>
+        <img src="img/index/teacher-2816112.jpg" alt="image of teacher" class="center scale">
         <p>As a community-driven museum, we want to work with schools to create places of learning and exploring. Our
             team are
             on hand to give your students guided tours of the museum, teach them in our learning laboratory, and provide
@@ -48,8 +59,13 @@
             students
             through for a visit.</p>
     </div>
-    <div class="row even">
+</div>
+<div class="top"></div>
+<div class="container">
+    <div class="con-col3"></div>
+    <div class="row light">
         <h2>Researchers</h2>
+        <img src="img/index/people-219985_1280.jpg" alt="image of researcher" class="center scale">
         <p>Are you looking to get involved with our team of researchers and academics? Our museum offers various ways
             for you to
             use our resources and contribute towards them. We have online records, laboratory space, and a working

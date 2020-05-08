@@ -9,11 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include_once 'includes\sheet.php'; ?>
 </head>
-<?php include_once 'includes\nav.php'; ?>
+<?php include_once 'includes\header.php'; ?>
 
 <body>
+<div class="top"></div>
 <div class="container">
-    <div class="row">
+    <div class="row light">
         <h2>Support</h2>
         <p>There are various ways you can support the museum. Donations are very welcome and are an important way we
             keep this
@@ -23,7 +24,7 @@
             and they
             will be able to assist you.</p>
     </div>
-    <div class="row">
+    <div class="row light">
         <h2>Volunteer</h2>
         <p>A number of people volunteer their time and effort to keep the displays in good order and ready for visitors
             to come
@@ -36,7 +37,7 @@
             about how
             you can get involved.</p>
     </div>
-    <div class="row">
+    <div class="row light">
         <h2>Internships</h2>
         <p>Are you interested in working in a museum? Do you enjoy the fun and excitement of sharing the wonders of
             nature with

@@ -20,44 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36e59e82-230f-40c1-84f4-7aff69a4161f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mystyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/events.php" beforeDir="false" afterPath="$PROJECT_DIR$/events.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/andrew-ruiz-348421.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ball-1010907_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/billetto-editorial-334686.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/binoculars-2028304.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/celso-405219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/exhibition-1863344_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/genoa-956405_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/heart-2607178_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon-1719742.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon-2790253.ai" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/jesse-orrico-60373.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lab-512503_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/learn-2405206_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/library-1132573_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/luke-ellis-craven-400722.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mammoth-1257288_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/markus-spiske-197281.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mavis-cw-164128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/open-science-735787.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/people-219985_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/reading-2762010_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/roberto-nickson-396152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/samuel-zeller-113381.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/samuel-zeller-158996.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/science-2799817.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/scientific-2040795_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/scott-webb-102825.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skeleton-414543_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/teacher-2816112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/toa-heftiba-412579.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/william-bout-264826.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/sheet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/nav.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/sheet.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/sheet.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/involved.php" beforeDir="false" afterPath="$PROJECT_DIR$/involved.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/visit.php" beforeDir="false" afterPath="$PROJECT_DIR$/visit.php" afterDir="false" />
@@ -79,6 +48,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -95,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1588773004427</updated>
       <workItem from="1588773011057" duration="12716000" />
+      <workItem from="1588791159868" duration="508000" />
+      <workItem from="1588955237154" duration="9059000" />
     </task>
     <servers />
   </component>
@@ -111,6 +83,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588773831632">
@@ -125,10 +98,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588773816100" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1588786615358">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1588958552761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588786615358" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588958552761" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588774001355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

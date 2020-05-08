@@ -10,7 +10,7 @@ html {
 
 body {
     margin:0;
-    background-color: #fff;
+    background-color: #2b3341;
 }
 
 header {
@@ -24,8 +24,7 @@ header ul {
     padding: 0;
     list-style: none;
     overflow: hidden;
-    background-color: #fff;
-    color:white;
+    color:#fff;
     background-color: #2b3341;
 }
 header li a {
@@ -52,10 +51,7 @@ nav {
     height: 65px;
 }
 
-.a {
-
-}
-
+/* Page title */
 .title {
     font-size: 2em;
     padding: 10px 20px;
@@ -63,6 +59,7 @@ nav {
     color:white;
 }
 
+/* Mobile navigation menu */
 .fa, .fas {
     padding-top: 15px !important;
 }
@@ -77,22 +74,51 @@ nav {
 
 }
 
+/* custum padding to the mobile navigation menu */
 .bread {
     padding: 15px 15px;
 }
 
+
 footer {
+    background-color: #2b3341;
+    color: #fff;
+    height: 100px;
+    text-decoration: none;
+    text-align: center !important;
+}
+
+
+.top, #bottom {
+    height: 25px;
+}
+
+/* first image with floating text on top */
+.text-box {
+    position: absolute;
+    top: 40vh;
+    left: 4vh;
+    right: 4vh;
+    color: white;
+    background-color: rgb(43 51 65 / 90%);
 
 }
 
+
+/* content styling */
 .container {
-    padding: 0 2vh;
+    padding: 5px 2vh;
 }
 
 .row {
     padding: 2vh 4vh;
     text-align: left;
 }
+
+.align-center {
+    text-align: center !important;
+}
+
 
 h1 {
     font-size: 2em;
@@ -107,10 +133,74 @@ p {
     font-size: 1em;
 }
 
-/* odd even color */
-.odd {background-color:grey;}
-.even {background-color: lightgray;}
+.link {
+    text-decoration: none;
+}
 
+.white-text {
+    color:#fff;
+}
+
+
+/* Scaling- making the image auto adjustable */
+.scale {
+    width: 90%;
+}
+
+.scale0 {
+    width: 100%;
+}
+
+
+/* center objects */
+.center {
+    padding: 0 20px;
+}
+
+.text-center {
+    text-align:center;
+}
+
+/* images side by side using flexbox*/
+.image-box {
+    display: flex;
+}
+
+.img-box {
+    padding-left: 1px;
+    width: 10vh;
+}
+
+.flex {
+    float:left;
+    flex: 1;
+
+}
+
+.light {
+    background-color: #fff;
+}
+
+/* container fun head colors */
+.con-col1 {
+    background-color: #b77833;
+    height: 20px;
+}
+
+.con-col2 {
+    background-color: #b74b8c;
+    height: 20px;
+}
+
+.con-col3 {
+    background-color: #1d90da;
+    height: 20px;
+}
+
+/* odd even color for troubleshooting
+.odd {background-color: rgb(133 133 133 );}
+.even {background-color: rgb(233 233 233);}
+*/
 
 @media (min-width: 768px) {
 
