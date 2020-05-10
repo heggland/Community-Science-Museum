@@ -12,7 +12,7 @@
 <?php include_once 'header.php'; ?>
 
 <body>
-<div class="top"></div>
+<main>
 <div class="container">
     <div class="row light">
         <h2>Support</h2>
@@ -47,7 +47,7 @@
             with the wider community.</p>
     </div>
 </div>
-
+</main>
 </body>
 <?php include_once 'footer.php'; ?>
 </html>

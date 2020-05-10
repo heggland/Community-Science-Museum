@@ -12,7 +12,7 @@
 <?php include_once 'header.php'; ?>
 
 <body>
-<div class="top"></div>
+<main>
 <div class="container">
     <div class="row light">
         <h2>Who are we?</h2>
@@ -43,6 +43,7 @@
 <div class="container">
     <form></form>
 </div>
+</main>
 </body>
 <?php include_once 'footer.php'; ?>
 </html>

@@ -12,7 +12,7 @@
 <?php include_once 'header.php'; ?>
 
 <body>
-<div class="top"></div>
+<main>
 <div class="container">
     <div class="row light">
         <h2>Location</h2>
@@ -58,6 +58,9 @@
             continue to explore science even after you’ve left the museum.</p>
     </div>
 </div>
+</main>
 </body>
 <?php include_once 'footer.php'; ?>
 </html>
+
+

@@ -19,8 +19,9 @@
 
 <img src="img/scott-webb-102825.jpg" alt="image of museum" class="scale0">
 
-<div class="top"></div>
-<div class="container">
+<main>
+<div class="container-flex">
+<div class="container box1">
     <div class="con-col1"></div>
     <div class="row light">
         <h2>For kids</h2>
@@ -44,8 +45,7 @@
     </div>
 </div>
 
-<div class="top"></div>
-<div class="container">
+<div class="container box2">
     <div class="con-col2"></div>
     <div class="row light">
         <h2>For teachers</h2>
@@ -60,7 +60,7 @@
             through for a visit.</p>
     </div>
 </div>
-<div class="top"></div>
+</div> /* end container-flex */
 <div class="container">
     <div class="con-col3"></div>
     <div class="row light">
@@ -73,6 +73,7 @@
             with a number of universities around the country.</p>
     </div>
 </div>
+</main>
 </body>
 <?php include_once 'footer.php'; ?>
 </html>

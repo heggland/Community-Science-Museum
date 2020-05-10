@@ -12,7 +12,7 @@
 <?php include_once 'header.php'; ?>
 
 <body>
-<div class="top"></div>
+<main>
 <div class="container">
     <div class="row light">
         <h1>News</h1>
@@ -40,6 +40,7 @@
         <img src="img/events/scientific-2040795_1280.jpg" alt="image of science" class="center scale">
     </div>
 </div>
+</main>
 </body>
 <?php include_once 'footer.php'; ?>
 </html>
