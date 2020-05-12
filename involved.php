@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Get involved</title>
+    <title>About us</title>
     <meta charset="UTF-8">
     <meta name="description" content=" ">
     <meta name="keywords" content=" ">
@@ -13,40 +13,62 @@
 
 <body>
 <main>
-<div class="container">
-    <div class="row light">
-        <h2>Support</h2>
-        <p>There are various ways you can support the museum. Donations are very welcome and are an important way we
-            keep this
-            museum open and accessible to the whole community. </p>
-        <p>You can also support us by donating items of interest to the museum’s collections. If you have some item or
-            collection that you think others would enjoy, please let us know by contacting our Collections Department
-            and they
-            will be able to assist you.</p>
+    <div class="container-flex">
+        <div class="container">
+            <div class="con-col4"></div>
+            <div class="row light">
+                <h2>Who are we?</h2>
+                <p>Come join us at the Community Science Museum where we’re committed to making science accessible to
+                    all.</p>
+                <div class="image-box center">
+                    <img src="img/about/toa-heftiba-412579.jpg" alt="image of entrance, whale skeleton"
+                         class="img-box flex">
+                    <img src="img/about/mavis-cw-164128.jpg" alt="image of museum halway" class="img-box flex">
+                    <img src="img/about/roberto-nickson-396152.jpg" alt="image of elephant stand" class="img-box flex">
+                </div>
+                <p>Over the course of human history, science has developed from our early understanding of fire, wind,
+                    water,
+                    and earth
+                    to exploring everything from galaxies far away to the very building blocks of life itself.</p>
+                <p>The aim of our museum is to create a space where everyone can experience the wonders of our
+                    discoveries and
+                    perhaps
+                    even ignite a lifelong passion to continue the exploration of the world around us.</p>
+                <p>We believe science should not be confined to the textbook, but brought to live through exhibits. This
+                    is why
+                    we have
+                    over 1000 different exhibits on the many varied subjects of science to explore. Many of these
+                    exhibits are
+                    designed
+                    for you to interact with and play around to see science come to life (apart from the dinosaur
+                    exhibits –
+                    they only
+                    come to life at night when everyone’s gone home).</p>
+                <img src="img/about/mammoth-1257288_1920.jpg" alt="image of mammoth skeleton" class="center scale">
+
+            </div>
+        </div>
     </div>
-    <div class="row light">
-        <h2>Volunteer</h2>
-        <p>A number of people volunteer their time and effort to keep the displays in good order and ready for visitors
-            to come
-            and enjoy. Volunteering has its perks including getting to see behind the scenes of a working museum, access
-            to
-            staff-only lectures, and a monthly lunch where all staff and volunteers come together to discuss ideas for
-            future
-            exhibits and strategies for the museum.</p>
-        <p>You can help volunteer in a number of different spheres. Please contact us if you’d like to find out more
-            about how
-            you can get involved.</p>
+    <div class="container-flex">
+        <div class="container">
+            <div class="con-col4"></div>
+            <div class="row light">
+
+                <!-- Start: Contact Form Clean -->
+                <div class="contact-clean" style="background-color: rgb(238,238,238);">
+                    <form method="post" action="about.php" enctype="multipart/form-data">
+                        <h2>Contact us</h2>
+                        <!-- Start: Input -->
+                        <div class="form-group"><input class="form-input" type="text" name="name" placeholder="Name" pattern="[A-Za-z A-Za-z]{3,32}" required=""></div>
+                        <div class="form-group"><input class="form-input" type="text" name="email" placeholder="Email" required=""></div>
+                        <div class="form-group"><textarea class="form-input" name="message" placeholder="Message" rows="14" required=""></textarea></div>
+                        <!-- End: Input -->
+
+
+            </div>
+        </div>
     </div>
-    <div class="row light">
-        <h2>Internships</h2>
-        <p>Are you interested in working in a museum? Do you enjoy the fun and excitement of sharing the wonders of
-            nature with
-            people? Well you could be just the right person to enjoy an internship at the museum.</p>
-        <p>You’ll be learning from a number of different academics and people who are passionate about science and
-            sharing it
-            with the wider community.</p>
-    </div>
-</div>
+
 </main>
 </body>
 <?php include_once 'footer.php'; ?>

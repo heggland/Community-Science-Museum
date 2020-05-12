@@ -28,37 +28,37 @@
             </div>
         </div>
     </div>
-                <div class="container-flex">
-                    <div class="container">
-                        <div class="con-col4"></div>
-                        <div class="row light">
-
-            <h2>Night in the Museum</h2>
-            <p>Get your family together for an exciting night in the museum as you sleep over beside dinosaurs and
-                science
-                displays.
-                Bring your own sleeping bag and get ready to rough it as we go exploring the wonders of science.</p>
-
-                        </div>
-                    </div>
-                </div>
     <div class="container-flex">
         <div class="container">
             <div class="con-col4"></div>
             <div class="row light">
 
-            <h2>Energetica Exhibition on Loan</h2>
-            <p>On loan from the NEMO Science Museum in Amsterdam, the Energetica exhibition is coming to the
-                Community
-                Science
-                Museum. It’s a series of installations that allow visitors to experience the power of the elements
-                as we
-                harness
-                them. From solar energy powering lighting, to ‘Wind Island’ that shows how turbines are able to use
-                and
-                control wind
-                to create power.</p>
-            <img src="img/events/scientific-2040795_1280.jpg" alt="image of science" class="center scale">
+                <h2>Night in the Museum</h2>
+                <p>Get your family together for an exciting night in the museum as you sleep over beside dinosaurs and
+                    science
+                    displays.
+                    Bring your own sleeping bag and get ready to rough it as we go exploring the wonders of science.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="container-flex">
+        <div class="container">
+            <div class="con-col4"></div>
+            <div class="row light">
+
+                <h2>Energetica Exhibition on Loan</h2>
+                <p>On loan from the NEMO Science Museum in Amsterdam, the Energetica exhibition is coming to the
+                    Community
+                    Science
+                    Museum. It’s a series of installations that allow visitors to experience the power of the elements
+                    as we
+                    harness
+                    them. From solar energy powering lighting, to ‘Wind Island’ that shows how turbines are able to use
+                    and
+                    control wind
+                    to create power.</p>
+                <img src="img/events/scientific-2040795_1280.jpg" alt="image of science" class="center scale">
 
 </main>
 </body>
