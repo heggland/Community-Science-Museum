@@ -118,6 +118,10 @@ footer {
     text-align: center !important;
 }
 
+.align-left {
+    text-align: left !important;
+}
+
 
 h1 {
     font-size: 2em;
@@ -138,6 +142,21 @@ p {
 
 .white-text {
     color: #fff;
+}
+
+/* open hours list */
+#hours {
+    height: 220px;
+}
+
+.list {
+    display: table-row;
+}
+
+.list-hour {
+    display:table-cell;
+    float:left;
+    width: 100%;
 }
 
 
@@ -193,6 +212,11 @@ p {
 
 .con-col3 {
     background-color: #1d90da;
+    height: 20px;
+}
+
+.con-col4 {
+    background-color: rgb(132 255 244 / 90%);
     height: 20px;
 }
 
