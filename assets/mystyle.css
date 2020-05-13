@@ -57,6 +57,7 @@ nav {
     left: 0;
     right: 0;
     bottom: 0;
+    font-family: 'Concert One';
 }
 
 ul {
@@ -75,9 +76,13 @@ a {
 
 /* Page title */
 .title {
-    font-size: 2em;
+    font-size: 1.6em;
     text-decoration: none;
     color: white;
+    padding-left:0;
+    padding-top:10px !important;
+    padding-bottom: 10px !important;
+    font-family: 'Concert One';
 }
 
 
@@ -96,7 +101,7 @@ footer {
 /* first image with floating text on top */
 .text-box {
     position: absolute;
-    top: 35vh;
+    top: 20vh;
     right: 20vh;
     left: 0;
     color: #000;
@@ -165,7 +170,7 @@ p {
     width: 90%;
 }
 
-.scale0 {
+#front-img {
     width: 100%;
 }
 
@@ -220,6 +225,34 @@ p {
     height: 20px;
 }
 
+.contact-form {
+    max-width: 480px;
+    width: 90%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 4px;
+    color: #505e6c;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+}
+
+.form-group {
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.05);
+    outline: none;
+    color: inherit;
+    padding-left: 12px;
+    height: 42px;
+}
+
+textarea {
+    min-height: 100px;
+    max-height: 260px;
+    padding-top: 10px;
+    resize: vertical;
+}
+
 /* odd even color for troubleshooting
 .odd {background-color: rgb(133 133 133 );}
 .even {background-color: rgb(233 233 233);}
@@ -240,11 +273,20 @@ p {
         padding: 0 10vh;
     }
 
+
+
     header li a {
         display: inline;
         text-decoration: none;
         color: white;
         background-color: #2b3341;
+    }
+
+    header li a:hover {
+        background-color: #2b3341;
+        text-decoration: underline;
+        cursor: pointer;
+        height: 70px;
     }
 
     nav {
@@ -260,6 +302,9 @@ p {
         top: 0;
         width: 60%;
     }
+
+
+
 
     ul {
         display: inline-block;
@@ -291,14 +336,14 @@ p {
         height: 95%;
     }
 
-    .scale0 {
+    #front-img {
         height: 500px;
     }
 
     .text-box {
         position: absolute;
         top: 30vh;
-        right: 500px;
+        right: 220px;
         left: 0;
         color: #000;
         background-color: rgb(132 255 244 / 90%);
@@ -312,13 +357,13 @@ p {
 
 @media (min-width: 1080px) {
     main {
-        padding: 0 35vh;
+        padding: 0 20vh;
     }
 
     .text-box {
         position: absolute;
         top: 40vh;
-        right: 500px;
+        right: 300px;
         left: 0;
         color: #000;
         background-color: rgb(132 255 244 / 90%);
@@ -326,9 +371,18 @@ p {
 }
 
 @media (min-width: 1366px) {
+    main {
+        padding: 0 30vh;
+    }
 
+    .text-box {
+        right: 430px;
+    }
 }
 
 @media (min-width: 1920px) {
 
+    .text-box {
+        right: 1050px;
+    }
 }

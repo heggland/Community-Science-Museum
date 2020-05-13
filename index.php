@@ -16,9 +16,9 @@
     <h1 class="center text-center">Explorer together</h1>
     <p>Come join us at the Community Science Museum where we’re committed to making science accessible to all.</p>
 </div>
-
-<img src="img/scott-webb-102825.jpg" alt="image of museum" class="scale0">
-
+<div class="center">
+<img src="img/scott-webb-102825.jpg" alt="image of museum" id="front-img">
+</div>
 <main>
     <div class="container-flex">
         <div class="container">

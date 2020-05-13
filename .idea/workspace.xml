@@ -22,8 +22,12 @@
     <list default="true" id="36e59e82-230f-40c1-84f4-7aff69a4161f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mystyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/events.php" beforeDir="false" afterPath="$PROJECT_DIR$/events.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/involved.php" beforeDir="false" afterPath="$PROJECT_DIR$/involved.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheet.php" beforeDir="false" afterPath="$PROJECT_DIR$/sheet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visit.php" beforeDir="false" afterPath="$PROJECT_DIR$/visit.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
@@ -71,7 +76,8 @@
       <workItem from="1589013656057" duration="4284000" />
       <workItem from="1589038308318" duration="1605000" />
       <workItem from="1589101483466" duration="3367000" />
-      <workItem from="1589271435002" duration="10345000" />
+      <workItem from="1589271435002" duration="11682000" />
+      <workItem from="1589357791020" duration="7552000" />
     </task>
     <servers />
   </component>
@@ -111,10 +117,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588773816100" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1589279741040">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1589367649465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589279741040" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589367649465" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588774001355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

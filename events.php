@@ -13,7 +13,7 @@
 
 <body>
 <main>
-    <div class="container-flex">
+
         <div class="container">
             <div class="con-col4"></div>
             <div class="row light">
@@ -27,8 +27,8 @@
 
             </div>
         </div>
-    </div>
-    <div class="container-flex">
+
+
         <div class="container">
             <div class="con-col4"></div>
             <div class="row light">
@@ -41,8 +41,8 @@
 
             </div>
         </div>
-    </div>
-    <div class="container-flex">
+
+
         <div class="container">
             <div class="con-col4"></div>
             <div class="row light">
@@ -59,7 +59,8 @@
                     control wind
                     to create power.</p>
                 <img src="img/events/scientific-2040795_1280.jpg" alt="image of science" class="center scale">
-
+            </div>
+        </div>
 </main>
 </body>
 <?php include_once 'footer.php'; ?>
