@@ -1,74 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Get involved</title>
+    <title>About us</title>
     <meta charset="UTF-8">
-    <meta name="description" content=" ">
-    <meta name="keywords" content=" ">
-    <meta name="author" content=" ">
+    <meta name="description" content=" Who are we?
+Come join us at the Community Science Museum where we’re committed to making science accessible to all. ">
+    <meta name="keywords" content=" about us, museum, community, science ">
+    <meta name="author" content=" hk ">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include_once 'sheet.php'; ?>
+    <link rel="icon" href="img/icon-1719742.svg">
 </head>
-<?php include_once 'header.php'; ?>
+<header>
+    <a href="index.php" class="title center">Community Science Museum</a>
+    <nav class="text-center">
+        <ul>
+            <ul>
+                <li class="hide"><a href="index.php">Home</a></li>
+                <li><a href="events.php">Events</a></li>
+                <li><a href="visit.php">Visit</a></li>
+                <li><a href="about.php"><div class="active">About</div></a></li>
+                <li><a href="involved.php">Contact </a></li>
+            </ul>
+    </nav>
+
+</header>
+
+
+
 
 <body>
 <main>
 
-
     <div class="container">
-        <div class="con-col3"></div>
+        <div class="con-col4"></div>
         <div class="row light">
-            <h2>Support</h2>
-            <p>There are various ways you can support the museum. Donations are very welcome and are an important
-                way we
-                keep this
-                museum open and accessible to the whole community. </p>
-            <p>You can also support us by donating items of interest to the museum’s collections. If you have some
-                item or
-                collection that you think others would enjoy, please let us know by contacting our Collections
-                Department
-                and they
-                will be able to assist you.</p>
+            <h2>Who are we?</h2>
+            <p>Come join us at the Community Science Museum where we’re committed to making science accessible to
+                all.</p>
+            <div class="image-box center">
+                <img src="img/about/toa-heftiba-412579.jpg" alt="image of entrance, whale skeleton"
+                     class="img-box flex">
+                <img src="img/about/mavis-cw-164128.jpg" alt="image of museum halway" class="img-box flex">
+                <img src="img/about/roberto-nickson-396152.jpg" alt="image of elephant stand" class="img-box flex">
+            </div>
+            <p>Over the course of human history, science has developed from our early understanding of fire, wind,
+                water,
+                and earth
+                to exploring everything from galaxies far away to the very building blocks of life itself.</p>
+            <p>The aim of our museum is to create a space where everyone can experience the wonders of our
+                discoveries and
+                perhaps
+                even ignite a lifelong passion to continue the exploration of the world around us.</p>
+            <p>We believe science should not be confined to the textbook, but brought to live through exhibits. This
+                is why
+                we have
+                over 1000 different exhibits on the many varied subjects of science to explore. Many of these
+                exhibits are
+                designed
+                for you to interact with and play around to see science come to life (apart from the dinosaur
+                exhibits –
+                they only
+                come to life at night when everyone’s gone home).</p>
+            <img src="img/about/mammoth-1257288_1920.jpg" alt="image of mammoth skeleton" class="center scale">
+
         </div>
     </div>
 
 
-    <div class="container">
-        <div class="con-col2"></div>
-        <div class="row light">
-            <h2>Volunteer</h2>
-            <p>A number of people volunteer their time and effort to keep the displays in good order and ready for
-                visitors
-                to come
-                and enjoy. Volunteering has its perks including getting to see behind the scenes of a working
-                museum, access
-                to
-                staff-only lectures, and a monthly lunch where all staff and volunteers come together to discuss
-                ideas for
-                future
-                exhibits and strategies for the museum.</p>
-            <p>You can help volunteer in a number of different spheres. Please contact us if you’d like to find out
-                more
-                about how
-                you can get involved.</p>
-        </div>
-    </div>
 
-
-    <div class="container">
-        <div class="con-col1"></div>
-        <div class="row light">
-            <h2>Internships</h2>
-            <p>Are you interested in working in a museum? Do you enjoy the fun and excitement of sharing the wonders
-                of
-                nature with
-                people? Well you could be just the right person to enjoy an internship at the museum.</p>
-            <p>You’ll be learning from a number of different academics and people who are passionate about science
-                and
-                sharing it
-                with the wider community.</p>
-        </div>
-    </div>
 </main>
 </body>
 <?php include_once 'footer.php'; ?>

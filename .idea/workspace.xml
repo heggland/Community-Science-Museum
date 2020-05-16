@@ -23,10 +23,52 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bugs/iphone bug.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/events.php" beforeDir="false" afterPath="$PROJECT_DIR$/events.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/mammoth-1257288_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/mammoth-1257288_1920.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/mavis-cw-164128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/mavis-cw-164128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/roberto-nickson-396152.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/roberto-nickson-396152.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/toa-heftiba-412579.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/toa-heftiba-412579.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/events/scientific-2040795_1280.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/events/scientific-2040795_1280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/andrew-ruiz-348421.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/ball-1010907_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/billetto-editorial-334686.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/binoculars-2028304.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/celso-405219.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/exhibition-1863344_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/genoa-956405_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/heart-2607178_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/icon-1719742.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/icon-2790253.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/jesse-orrico-60373.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/lab-512503_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/learn-2405206_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/library-1132573_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/luke-ellis-craven-400722.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/mammoth-1257288_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/markus-spiske-197281.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/mavis-cw-164128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/open-science-735787.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/people-219985_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/reading-2762010_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/roberto-nickson-396152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/samuel-zeller-113381.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/samuel-zeller-158996.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/science-2799817.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/scientific-2040795_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/scott-webb-102825.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/skeleton-414543_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/teacher-2816112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/toa-heftiba-412579.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/for use/william-bout-264826.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/index/learn-2405206_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index/learn-2405206_1920.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/index/library-1132573_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index/library-1132573_1920.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/index/people-219985_1280.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index/people-219985_1280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/index/teacher-2816112.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index/teacher-2816112.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/scott-webb-102825.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/scott-webb-102825.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/involved.php" beforeDir="false" afterPath="$PROJECT_DIR$/involved.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sheet.php" beforeDir="false" afterPath="$PROJECT_DIR$/sheet.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/visit.php" beforeDir="false" afterPath="$PROJECT_DIR$/visit.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +120,9 @@
       <workItem from="1589101483466" duration="3367000" />
       <workItem from="1589271435002" duration="11682000" />
       <workItem from="1589357791020" duration="7552000" />
+      <workItem from="1589528927469" duration="5329000" />
+      <workItem from="1589555758425" duration="7061000" />
+      <workItem from="1589617042380" duration="11808000" />
     </task>
     <servers />
   </component>
@@ -101,14 +146,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588773831632" />
-    <state x="730" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588775971688">
+    <state x="730" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589566022160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="730" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588775971688" />
+    <state x="730" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589566022160" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588967835622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588967835622" />
+    <state x="986" y="226" key="RollbackChangesDialog" timestamp="1589620403538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="986" y="226" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589620403538" />
     <state x="746" y="165" key="SettingsEditor" timestamp="1589038353857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -117,10 +166,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588773816100" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1589367649465">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1589620929911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589367649465" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589620929911" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588774001355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

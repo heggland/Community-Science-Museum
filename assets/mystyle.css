@@ -1,5 +1,5 @@
 /*
-Created by KH
+Created by hk
 mobile first design
 */
 
@@ -43,9 +43,26 @@ header li a:hover {
     height: 70px;
 }
 
-
-header .button:hover {
+header li a:active {
+    background-color: white;
+    font-weight: bold;
     cursor: pointer;
+    height: 70px;
+}
+
+header:hover {
+    cursor: pointer;
+}
+
+
+header li a:focus {
+    background-color: #000;
+}
+
+.active {
+    /*div inside navigation to tell what page user is on*/
+    font-size: 2vh;
+    text-decoration: underline;
 }
 
 nav {
@@ -79,8 +96,8 @@ a {
     font-size: 1.6em;
     text-decoration: none;
     color: white;
-    padding-left:0;
-    padding-top:10px !important;
+    padding-left: 0;
+    padding-top: 10px !important;
     padding-bottom: 10px !important;
     font-family: 'Concert One';
 }
@@ -89,7 +106,7 @@ a {
 footer {
     background-color: #2b3341;
     color: #fff;
-    height: 200px;
+    padding-bottom: 50px;
     text-decoration: none;
     text-align: center !important;
 }
@@ -102,7 +119,6 @@ footer {
 .text-box {
     position: absolute;
     top: 20vh;
-    right: 20vh;
     left: 0;
     color: #000;
     background-color: rgb(132 255 244 / 90%);
@@ -117,16 +133,8 @@ footer {
 .row {
     padding: 2vh 4vh;
     text-align: left;
-}
 
-.align-center {
-    text-align: center !important;
 }
-
-.align-left {
-    text-align: left !important;
-}
-
 
 h1 {
     font-size: 2em;
@@ -145,8 +153,29 @@ p {
     text-decoration: none;
 }
 
+.white-txt {
+    color: white;
+}
+
+.link-btn-txt {
+    color: black;
+}
+
+.link-btn-txt:hover {
+    cursor: pointer;
+    font-weight: bold;
+}
+
 .white-text {
     color: #fff;
+}
+
+.hide-map {
+    display: none !important;
+}
+
+.show-1920 {
+    display: none;
 }
 
 /* open hours list */
@@ -159,8 +188,8 @@ p {
 }
 
 .list-hour {
-    display:table-cell;
-    float:left;
+    display: table-cell;
+    float: left;
     width: 100%;
 }
 
@@ -170,18 +199,29 @@ p {
     width: 90%;
 }
 
+.scale2 {
+    width: 30%;
+}
+
+.scale3 {
+    height: 150px;
+}
+
 #front-img {
     width: 100%;
 }
 
 /* center objects */
 .center {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 0 20px;
 }
 
 .text-center {
-    text-align: center;
+    text-align: center !important;
+}
+
+.align-left {
+    text-align: left !important;
 }
 
 /* images side by side using flexbox*/
@@ -194,10 +234,21 @@ p {
     width: 10vh;
 }
 
-.flex {
-    float: left;
-    flex: 1;
+.flex-box {
+    display: flex;
+    width: 100%;
+}
 
+.flex {
+    flex: 1;
+}
+
+.padding-top {
+    padding-top: 50px;
+}
+
+.padding-bottom {
+    padding-bottom: 100px;
 }
 
 .light {
@@ -227,31 +278,52 @@ p {
 
 .contact-form {
     max-width: 480px;
-    width: 90%;
-    margin: 0 auto;
+    margin: 0;
     background-color: #ffffff;
     padding: 40px;
     border-radius: 4px;
     color: #505e6c;
-    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
 }
 
 .form-group {
     background: #fff;
+    padding-top: 5px;
     border-radius: 2px;
-    box-shadow: 1px 1px 1px rgba(0,0,0,0.05);
     outline: none;
     color: inherit;
     padding-left: 12px;
-    height: 42px;
+}
+
+.form-input {
+    width: 100%;
 }
 
 textarea {
     min-height: 100px;
     max-height: 260px;
     padding-top: 10px;
+    margin: 0;
+    width: 171px;
+    height: 86px;
     resize: vertical;
 }
+
+
+label {
+    padding: 10px 10px 10px 0;
+    display: inline-block;
+}
+
+input[type=submit] {
+    cursor: pointer;
+    float: right;
+}
+
+
+.hide-text {
+    display: none;
+}
+
 
 /* odd even color for troubleshooting
 .odd {background-color: rgb(133 133 133 );}
@@ -264,6 +336,19 @@ textarea {
         display: none;
     }
 
+    .hide-map {
+        display: block !important;
+    }
+
+    .hide-text {
+        display: block !important;
+        padding-left: 2vh;
+    }
+
+    .scale2 {
+        width: 10%;
+    }
+
     header {
         display: flex;
         width: 100%;
@@ -272,8 +357,6 @@ textarea {
     main {
         padding: 0 10vh;
     }
-
-
 
     header li a {
         display: inline;
@@ -304,8 +387,6 @@ textarea {
     }
 
 
-
-
     ul {
         display: inline-block;
         height: 25px;
@@ -326,8 +407,8 @@ textarea {
     }
 
     .container {
-        flex:1;
-        padding:16px;
+        flex: 1;
+        padding: 16px;
     }
 
     .row {
@@ -343,16 +424,25 @@ textarea {
     .text-box {
         position: absolute;
         top: 30vh;
-        right: 220px;
+        max-width: 500px;
         left: 0;
         color: #000;
         background-color: rgb(132 255 244 / 90%);
     }
 
-    h1, .text-box {
-        text-align:left !important;
+    .padding-bottom {
+        padding-bottom: 5px;
     }
 
+    h1, .text-box {
+        text-align: left !important;
+    }
+
+
+    iframe {
+        width: 100%;
+        padding-bottom: 100px;
+    }
 }
 
 @media (min-width: 1080px) {
@@ -363,7 +453,6 @@ textarea {
     .text-box {
         position: absolute;
         top: 40vh;
-        right: 300px;
         left: 0;
         color: #000;
         background-color: rgb(132 255 244 / 90%);
@@ -374,15 +463,20 @@ textarea {
     main {
         padding: 0 30vh;
     }
-
-    .text-box {
-        right: 430px;
-    }
 }
 
 @media (min-width: 1920px) {
+    .show-1920 {
+        display: block !important;
+    }
 
     .text-box {
-        right: 1050px;
+        position: absolute;
+        top: 33vh !important;
+        left: 0;
+        color: #000;
+        background-color: rgb(132 255 244 / 90%);
     }
+
 }
+

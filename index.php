@@ -3,18 +3,35 @@
 <head>
     <title>Community Science Museum</title>
     <meta charset="UTF-8">
-    <meta name="description" content=" ">
-    <meta name="keywords" content=" ">
-    <meta name="author" content=" ">
+    <meta name="description" content=" Explorer together Come join us at the Community Science Museum where we’re committed to making science accessible to all. For kids, teachers and researchers ">
+    <meta name="keywords" content="homepage,  museum, community, science ">
+    <meta name="author" content=" hk ">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include_once 'sheet.php'; ?>
+    <link rel="icon" href="img/icon-1719742.svg">
 </head>
-<?php include_once 'header.php'; ?>
+<header>
+    <a href="index.php" class="title center">Community Science Museum</a>
+    <nav class="text-center">
+        <ul>
+            <ul>
+                <li class="hide"><a href="index.php"><div class="active">Home </div></a></li>
+                <li><a href="events.php">Events</a></li>
+                <li><a href="visit.php">Visit</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="involved.php">Contact</a></li>
+            </ul>
+    </nav>
+
+</header>
+
+
+
 <body>
 
-<div class="text-box center">
-    <h1 class="center text-center">Explorer together</h1>
-    <p>Come join us at the Community Science Museum where we’re committed to making science accessible to all.</p>
+<div class="text-box ">
+    <h1 class="center">Explorer together</h1>
+    <p class="hide-text">Come join us at the Community Science Museum where we’re committed to making science accessible to all.</p>
 </div>
 <div class="center">
 <img src="img/scott-webb-102825.jpg" alt="image of museum" id="front-img">
@@ -70,7 +87,7 @@
             </div>
         </div>
     </div>
-    /* end container-flex */
+
     <div class="container">
         <div class="con-col3"></div>
         <div class="row light">

@@ -3,13 +3,30 @@
 <head>
     <title>Events</title>
     <meta charset="UTF-8">
-    <meta name="description" content=" ">
-    <meta name="keywords" content=" ">
-    <meta name="author" content=" ">
+    <meta name="description" content=" News from the community science museum ">
+    <meta name="keywords" content=" News,  museum, community, science ">
+    <meta name="author" content=" hk ">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include_once 'sheet.php'; ?>
+    <link rel="icon" href="img/icon-1719742.svg">
 </head>
-<?php include_once 'header.php'; ?>
+<header>
+    <a href="index.php" class="title center">Community Science Museum</a>
+    <nav class="text-center">
+        <ul>
+            <ul>
+                <li class="hide"><a href="index.php">Home</a></li>
+                <li><a href="events.php"><div class="active"> Events </div></a></li>
+                <li><a href="visit.php">Visit</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="involved.php">Contact</a></li>
+            </ul>
+    </nav>
+
+</header>
+
+
+
 
 <body>
 <main>
